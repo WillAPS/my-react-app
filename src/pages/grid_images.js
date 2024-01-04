@@ -15,7 +15,7 @@ export default function GridImages(){
         {images.map((image, index) => (
           <Col key={index} sm={6} md={4} lg={3}>
             <a href={image.link} target="_blank" rel="noreferrer">
-              <img src={image.src} alt={`Imagem ${index + 1}`} className="imagem" />
+              <img src={image.src} alt={`Imagemm ${index + 1}`} className="imagem" />
             </a>
           </Col>
         ) )}
