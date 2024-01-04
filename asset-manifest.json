@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WillAPS/my-react-app/static/css/main.e475fd6b.css",
+    "main.js": "/WillAPS/my-react-app/static/js/main.f2071581.js",
+    "static/js/787.38f16daf.chunk.js": "/WillAPS/my-react-app/static/js/787.38f16daf.chunk.js",
+    "index.html": "/WillAPS/my-react-app/index.html",
+    "main.e475fd6b.css.map": "/WillAPS/my-react-app/static/css/main.e475fd6b.css.map",
+    "main.f2071581.js.map": "/WillAPS/my-react-app/static/js/main.f2071581.js.map",
+    "787.38f16daf.chunk.js.map": "/WillAPS/my-react-app/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e475fd6b.css",
+    "static/js/main.f2071581.js"
+  ]
+}
